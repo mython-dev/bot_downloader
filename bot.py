@@ -16,7 +16,7 @@ import time
 
 
 
-TOKEN = '5438670868:AAG059x3oIPcxGQODCsziJG9xJiPx5vogMM'
+TOKEN = '# Add your TOKEN:)'
 
 bot = telebot.TeleBot(TOKEN)
 
