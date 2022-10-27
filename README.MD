@@ -6,7 +6,7 @@
 
 ### libraries
 
-![](https://img.shields.io/badge/TeleBot-blue)&&![](https://img.shields.io/badge/PyTube-blue)
+![](https://img.shields.io/badge/TeleBot-blue).  &&  ![](https://img.shields.io/badge/PyTube-blue)
 
 ### Code installation 📝
 
