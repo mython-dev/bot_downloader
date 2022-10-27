@@ -4,11 +4,9 @@
 ![languages](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/github/last-commit/mython-dev/trans_bot)
 
-![Libraries](https://img.shields.io/badge/TeleBot-blue)
+### libraries
 
-&&
-
-![Libraries](https://img.shields.io/badge/PyTube-blue)
+![](https://img.shields.io/badge/TeleBot-blue)&&![](https://img.shields.io/badge/PyTube-blue)
 
 ### Code installation 📝
 
@@ -23,7 +21,7 @@ python3 bot.py
 
 ### Как работает этот бот 🤖
 
-<img src="https://github.com/mython-dev/bot_downloader/blob/main/screenshots/bot.png" width="400" height="600">
+<img src="https://github.com/mython-dev/bot_downloader/blob/main/screenshots/bot.jpeg" width="400" height="600">
 
 
 ##### 🌐 Социальные сети:
